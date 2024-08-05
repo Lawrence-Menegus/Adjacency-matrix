@@ -11,9 +11,9 @@
 ### Compile and Run the Program
 <p>To compile and run the program, follow these steps in your terminal:</p>
 <b>Compile the Program</b>:
-<pre><code>g++ -o graph graph.cpp</code></pre>
+<pre><code>g++ -o Adjacency-matrix.cpp</code></pre>
 <b>Run the Program</b>:
-<pre><code>./graph</code></pre>
+<pre><code>./Adjacency-matrix</code></pre>
 
 ### Usage
 <p>1. <b>Initialization</b>:</p>
